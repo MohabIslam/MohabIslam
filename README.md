@@ -1,4 +1,5 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="![image](https://github.com/user-attachments/assets/06ad3b91-7e02-410f-a37b-d420718310b2)
+" />
 
 # Hello World!, I'm Mohab Islam, a Egyptian Developer 👋🏼:
 🛜 currently working at Imcanat Company👨🏼‍🎓<br>👨🏼‍💻 working as a web developer since 2024 
